@@ -3,9 +3,9 @@
 Plugin Name: Woobizz Hook 3 
 Plugin URI: http://woobizz.com
 Description: Disable emojis on wordpress
-Author: Woobizz
+Author: WOOBIZZ.COM
 Author URI: http://woobizz.com
-Version: 1.0.0
+Version: 1.0.1
 Text Domain: woobizzhook3
 Domain Path: /lang/
 */
